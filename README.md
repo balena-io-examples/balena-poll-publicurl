@@ -1,4 +1,4 @@
-# balena-poll-publicurl
+# balena-poll-publicurl
 
 ## Usage
 
