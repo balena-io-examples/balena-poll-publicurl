@@ -1,5 +1,7 @@
 # balena-poll-publicurl
 
+This project shows how to poll the public URL of a balena device... forever.
+
 ## Usage
 
 ```
